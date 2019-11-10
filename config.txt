@@ -13,8 +13,7 @@
 // If you don't know how to get a bot token, please see the guide here:
 // https://github.com/jagrosh/MusicBot/wiki/Getting-a-Bot-Token
 
-token =NjQyOTYyODM2NzU4MzMxNDAy.XcenMg.sFwm9BSLYVAbsO7PvFQGYYcH4tk
-
+token =NjQyOTYyODM2NzU4MzMxNDAy.XchdKA.1f_wNmPlf5JjkTJH7fkGYeQ9VcM
 
 // This sets the owner of the bot
 // This needs to be the owner's ID (a 17-18 digit number)
@@ -70,8 +69,8 @@ searching = "🔎"
 
 
 // If you set this, you change the word used to view the help.
-// For example, if you set the prefix to channel  and the help to channel, you would type
-// channel to see the help text
+// For example, if you set the prefix to !! and the help to cmds, you would type
+// !!cmds to see the help text
 
 /help = help
 
@@ -160,7 +159,7 @@ aliases {
   playnext = [next]
   repeat = [loop]
   skipto = [ jumpto ]
-  stop = [leave]
+  stop = []
   volume = [ vol ]
 }
 
